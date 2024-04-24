@@ -6,7 +6,7 @@
 		</div>
 		<div class="row q-col-gutter-lg">
 			<div v-for="i in 6" :key="i" class="col-12 col-md-4 col-sm-6">
-				<course-card />
+				<!-- <course-card /> -->
 			</div>
 		</div>
 	</q-page>
